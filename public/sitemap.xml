@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.masterv.net</loc>
+        <lastmod>2023-08-31</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <!-- /Data -->
+    <url>
+        <loc>https://www.masterv.net/Data</loc>
+        <lastmod>2023-08-30</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <!-- /Settings -->
+    <url>
+        <loc>https://www.masterv.net/Settings</loc>
+        <lastmod>2023-08-29</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <!-- /Dashboard -->
+    <url>
+        <loc>https://www.masterv.net/Dashboard</loc>
+        <lastmod>2023-08-29</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <!-- /Comparison -->
+    <url>
+        <loc>https://www.masterv.net/Comparison</loc>
+        <lastmod>2023-08-29</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.7</priority>
+    </url>
+</urlset>

@@ -1,0 +1,549 @@
+{
+  "name": "Master - V",
+  "short_name": "Master - V",
+  "id": "17339846978123",
+  "theme_color": "#203c4c",
+  "background_color": "#203c4c",
+  "description": "Master - V real estate intelligence",
+  "lang": "en-US",
+  "dir": "auto",
+  "prefer_related_applications": false,
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "/",
+  "start_url": "/",
+  "display_override": [
+    "minimal-ui",
+    "window-controls-overlay",
+    "fullscreen",
+    "browser",
+    "standalone"
+  ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://masterv.net",
+      "id": "17339846978123"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Auth",
+      "short_name": "Auth",
+      "description": "Go to the Auth page",
+      "url": "/Auth",
+      "icons": [
+        {
+          "src": "Img/icons/windows/Square44x44Logo.targetsize-96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Data",
+      "short_name": "Data",
+      "description": "Go to the Data page",
+      "url": "/Data",
+      "icons": [
+        {
+          "src": "Img/icons/windows/Square44x44Logo.targetsize-96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Settings",
+      "short_name": "Settings",
+      "description": "Go to the Settings page",
+      "url": "/Settings",
+      "icons": [
+        {
+          "src": "Img/icons/windows/Square44x44Logo.targetsize-96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard",
+      "short_name": "Dashboard",
+      "description": "Go to the Dashboard page",
+      "url": "/Dashboard",
+      "icons": [
+        {
+          "src": "Img/icons/windows/Square44x44Logo.targetsize-96.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "screenshots": [
+    {
+      "src": "Img/Screenshots/1920x946.webp",
+      "sizes": "1920x946",
+      "type": "image/webp",
+      "form_factor": "wide"
+    },
+    {
+      "src": "Img/Screenshots/638x1280.webp",
+      "sizes": "638x1280",
+      "type": "image/webp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "Img/icons/windows/SmallTile.scale-100.png",
+      "sizes": "71x71"
+    },
+    {
+      "src": "Img/icons/windows/SmallTile.scale-125.png",
+      "sizes": "89x89"
+    },
+    {
+      "src": "Img/icons/windows/SmallTile.scale-150.png",
+      "sizes": "107x107"
+    },
+    {
+      "src": "Img/icons/windows/SmallTile.scale-200.png",
+      "sizes": "142x142"
+    },
+    {
+      "src": "Img/icons/windows/SmallTile.scale-400.png",
+      "sizes": "284x284"
+    },
+    {
+      "src": "Img/icons/windows/Square150x150Logo.scale-100.png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "Img/icons/windows/Square150x150Logo.scale-125.png",
+      "sizes": "188x188"
+    },
+    {
+      "src": "Img/icons/windows/Square150x150Logo.scale-150.png",
+      "sizes": "225x225"
+    },
+    {
+      "src": "Img/icons/windows/Square150x150Logo.scale-200.png",
+      "sizes": "300x300"
+    },
+    {
+      "src": "Img/icons/windows/Square150x150Logo.scale-400.png",
+      "sizes": "600x600"
+    },
+    {
+      "src": "Img/icons/windows/Wide310x150Logo.scale-100.png",
+      "sizes": "310x150"
+    },
+    {
+      "src": "Img/icons/windows/Wide310x150Logo.scale-125.png",
+      "sizes": "388x188"
+    },
+    {
+      "src": "Img/icons/windows/Wide310x150Logo.scale-150.png",
+      "sizes": "465x225"
+    },
+    {
+      "src": "Img/icons/windows/Wide310x150Logo.scale-200.png",
+      "sizes": "620x300"
+    },
+    {
+      "src": "Img/icons/windows/Wide310x150Logo.scale-400.png",
+      "sizes": "1240x600"
+    },
+    {
+      "src": "Img/icons/windows/LargeTile.scale-100.png",
+      "sizes": "310x310"
+    },
+    {
+      "src": "Img/icons/windows/LargeTile.scale-125.png",
+      "sizes": "388x388"
+    },
+    {
+      "src": "Img/icons/windows/LargeTile.scale-150.png",
+      "sizes": "465x465"
+    },
+    {
+      "src": "Img/icons/windows/LargeTile.scale-200.png",
+      "sizes": "620x620"
+    },
+    {
+      "src": "Img/icons/windows/LargeTile.scale-400.png",
+      "sizes": "1240x1240"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.scale-100.png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.scale-125.png",
+      "sizes": "55x55"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.scale-150.png",
+      "sizes": "66x66"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.scale-200.png",
+      "sizes": "88x88"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.scale-400.png",
+      "sizes": "176x176"
+    },
+    {
+      "src": "Img/icons/windows/StoreLogo.scale-100.png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "Img/icons/windows/StoreLogo.scale-125.png",
+      "sizes": "63x63"
+    },
+    {
+      "src": "Img/icons/windows/StoreLogo.scale-150.png",
+      "sizes": "75x75"
+    },
+    {
+      "src": "Img/icons/windows/StoreLogo.scale-200.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "Img/icons/windows/StoreLogo.scale-400.png",
+      "sizes": "200x200"
+    },
+    {
+      "src": "Img/icons/windows/SplashScreen.scale-100.png",
+      "sizes": "620x300"
+    },
+    {
+      "src": "Img/icons/windows/SplashScreen.scale-125.png",
+      "sizes": "775x375"
+    },
+    {
+      "src": "Img/icons/windows/SplashScreen.scale-150.png",
+      "sizes": "930x450"
+    },
+    {
+      "src": "Img/icons/windows/SplashScreen.scale-200.png",
+      "sizes": "1240x600"
+    },
+    {
+      "src": "Img/icons/windows/SplashScreen.scale-400.png",
+      "sizes": "2480x1200"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-20.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-24.png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-30.png",
+      "sizes": "30x30"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-32.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-36.png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-40.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-44.png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-60.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-80.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.targetsize-256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-20.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-24.png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-30.png",
+      "sizes": "30x30"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-32.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-36.png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-40.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-44.png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-60.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-80.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-unplated_targetsize-256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-20.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-24.png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-30.png",
+      "sizes": "30x30"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-32.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-36.png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-40.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-44.png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-60.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-80.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "Img/icons/windows/Square44x44Logo.altform-lightunplated_targetsize-256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "Img/icons/android/android-launchericon-512-512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "Img/icons/android/android-launchericon-192-192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Img/icons/android/android-launchericon-144-144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "Img/icons/android/android-launchericon-96-96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "Img/icons/android/android-launchericon-72-72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "Img/icons/android/android-launchericon-48-48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "Img/icons/ios/16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "Img/icons/ios/20.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "Img/icons/ios/29.png",
+      "sizes": "29x29"
+    },
+    {
+      "src": "Img/icons/ios/32.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "Img/icons/ios/40.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "Img/icons/ios/50.png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "Img/icons/ios/57.png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "Img/icons/ios/58.png",
+      "sizes": "58x58"
+    },
+    {
+      "src": "Img/icons/ios/60.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "Img/icons/ios/64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "Img/icons/ios/72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "Img/icons/ios/76.png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "Img/icons/ios/80.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "Img/icons/ios/87.png",
+      "sizes": "87x87"
+    },
+    {
+      "src": "Img/icons/ios/100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "Img/icons/ios/114.png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "Img/icons/ios/120.png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "Img/icons/ios/128.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "Img/icons/ios/144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "Img/icons/ios/152.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "Img/icons/ios/167.png",
+      "sizes": "167x167"
+    },
+    {
+      "src": "Img/icons/ios/180.png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "Img/icons/ios/192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Img/icons/ios/256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "Img/icons/ios/512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "Img/icons/ios/1024.png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "edge_side_panel": {
+    "preferred_width": 0
+  }
+}

@@ -1,0 +1,22 @@
+.Bedrooms-Number {
+    font-size: 14px;
+    padding: 2px 6px !important;
+    background: transparent;
+    border: none;
+}
+.BedRooms .chakra-checkbox__control:checked{
+    background: red !important;
+    border: none;
+}
+
+@media (min-width: 768px) {
+    .Bedrooms-Number {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .Bedrooms-Number {
+        font-size: 18px;
+    }
+}

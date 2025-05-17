@@ -1,0 +1,8 @@
+.container-register .chakra-form-control {
+    margin-bottom: 10px !important;
+}
+
+.container-register .list-choose li:hover {
+    background-color: #1f5072 !important;
+    color: #fff !important;
+}

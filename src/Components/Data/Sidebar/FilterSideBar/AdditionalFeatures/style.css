@@ -1,0 +1,15 @@
+.chakra-modal__content .css-pv22qu {
+    max-width: 32rem !important;
+}
+
+.Input-Modal-AdditionalFeatures {
+    border-width: 3px !important;
+    border-color: #acb9c4 !important;
+}
+
+.Modal-Content-AdditionalFeatures .css-wmp3f9[aria-checked="true"],
+.css-wmp3f9[data-checked],
+.css-wmp3f9[data-state="checked"] {
+    border-color: #38a169 !important;
+    border-width: 0 !important;
+}

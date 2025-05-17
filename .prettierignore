@@ -1,0 +1,10 @@
+.eslintrc.json 
+.prettierrc.json
+docker-compose.yml
+Dockerfile
+nodemon.json
+package-lock.json
+package.json 
+logs
+Json
+Backup
